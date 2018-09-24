@@ -1,0 +1,57 @@
+body{
+	font-family: 'Indie Flower', cursive; font-size: 17px;
+	text-align: center;
+	background-image: url("../images/bwallpaper.jpg");
+	line-height: 2;
+}
+
+p, li{
+	/*off-white color easier on eyes*/
+	color: #F0F8FF;
+}
+
+ul, ol{
+	list-style-position: inside;
+	text-align: left;
+
+}
+
+div{
+	width: 500px;
+	margin: auto;
+	border: 3px solid #F0F8FF;
+	border-radius: 20px;
+}
+.topthree{
+	position: relative;
+	right: 350px;
+	top: 150px;
+}
+
+.paul{
+	position: relative;
+	right: 350px;
+	top: 70px;
+}
+
+.mostrecent{
+	position: relative;
+	left: 350px;
+	bottom: 400px;
+}
+h1, h2{ 
+	background-color: #F0F8FF;
+	font-weight: 900;
+ }
+.header{
+	color: black;
+}
+
+}
+.alpha{
+	list-style-type: upper-alpha;
+}
+
+.bsq{
+	list-style-type: square;
+}
